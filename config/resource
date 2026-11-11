@@ -24,6 +24,14 @@
             {
                 "name": "junyao-ktv/mv",
                 "permission":{"rw":["docker-junyao-ktv"]}
+            },
+            {
+                "name": "junyao-ktv/mv-net",
+                "permission":{"rw":["docker-junyao-ktv"]}
+            },
+            {
+                "name": "junyao-ktv/singer",
+                "permission":{"rw":["docker-junyao-ktv"]}
             }
         ]
     }
